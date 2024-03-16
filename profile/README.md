@@ -12,8 +12,7 @@
 </div>
 <br />
 
-<!-- ACKNOWLEDGMENTS -->
-## ‎‎ Acknowledgments
-
-* We are in no way affiliated with WebXR in any way, shape or form.
+<p align="center">
+* We are in no way affiliated with WebXR in any way, shape or form.<br>
 * This was created solely for educational purposes.
+</p>
